@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-$ npm install
+$ npm install or yarn install
 ```
 
 ## Start
@@ -16,5 +16,5 @@ $ npm run start
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+- Author - [Harish Rao]
 - Website - [https://nestjs.com](https://nestjs.com/)
